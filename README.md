@@ -1,11 +1,3 @@
-### Hi, I'm Adam!
-
-I'm a builder focused on leveraging new tools and cutting-edge technology to create anything from mobile and web apps to AI agents.
-
-Watch project demos on [YouTube](https://www.youtube.com/@adambblackman).
-
-## Projects
-
 ### [Splicer](https://github.com/adamblackman/splicer) · Gemini 3 Hackathon
 AI code-migration agent that splices a feature from one repo into another and hands back a PR-ready branch.
 - **Stack:** Gemini 3 Pro, LangGraph, Cloud Run, Vercel, Supabase
