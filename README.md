@@ -1,9 +1,3 @@
-<!--
-GitHub PROFILE README — renders at github.com/adamblackman.
-Filled in progressively: each project gets its full entry here when its wave
-clears review (license, docs, security). See planning/PLAN.md (local only).
--->
-
 ### Hi, I'm Adam!
 
 I'm a builder focused on leveraging new tools and cutting-edge technology to create anything from mobile and web apps to AI agents.
