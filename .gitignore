@@ -1,0 +1,5 @@
+# Local-only planning — never pushed to GitHub.
+# The adamblackman/adamblackman repo publishes ONLY the profile README (and assets).
+planning/
+.DS_Store
+CLAUDE.md
