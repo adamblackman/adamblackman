@@ -1,6 +1,6 @@
 ### [Splicer](https://github.com/adamblackman/splicer) · Gemini 3 Hackathon
-AI code-migration agent that splices a feature from one repo into another and hands back a PR-ready branch, with a live in-browser preview for Node.js projects.
-- **Stack:** Gemini 3 Pro, LangGraph, Cloud Run, Vercel, Supabase
+AI code-migration agent that splices a feature from one repo into another and hands back a PR-ready branch, with a live in-browser preview.
+- **Stack:** Gemini 3 Pro, LangGraph, Google Cloud Run, Vercel, Supabase
 
 ### [Briefo](https://github.com/adamblackman/briefo-public) · 🏆 [Best Finance Project, Perplexity Hackathon](https://docs.perplexity.ai/docs/cookbook/showcase/briefo)
 Mobile social app that delivers an AI-generated newsfeed and company deep-dives.
